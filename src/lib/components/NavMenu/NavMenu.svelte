@@ -85,7 +85,7 @@
 		</div>
 		<div class="col gap-2 m-t-7">
 			<a
-				href={`${base}/search`}
+				href='/#'
 				class="text-inherit decoration-none px-6 py-3 gap-2 row hover:bg-[color:var(--main-hover)]"
 				on:click={() => toggleExpanded(false)}
 			>
