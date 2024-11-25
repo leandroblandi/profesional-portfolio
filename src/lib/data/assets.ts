@@ -56,6 +56,7 @@ const Assets = {
 	Sass: a('sass.png'),
 	Unknown: a('no-img.svg'),
 	MongoDB: a('mongodb.svg'),
+	MySQL: a('mysql.png'),
 	Redis: a('redis.svg'),
 	Tailwind: a('tailwind.svg'),
 	HTML: a('html.svg'),
@@ -70,7 +71,13 @@ const Assets = {
 	Jest: a('jest.png'),
 	Unocss: a('unocss.svg'),
 	Ruvy: a('ruvy.svg'),
-	Postcss: a('postcss.svg')
+	Postcss: a('postcss.svg'),
+	Spring: a('spring.png'),
+	SpringSecurity: a('security.png'),
+	Hibernate: a('hibernate.svg'),
+	Jrc: a('jrc.jpeg'),
+	Certant: a('certant.png'),
+	Unla: a('unla.png'),
 };
 
 export default Assets;

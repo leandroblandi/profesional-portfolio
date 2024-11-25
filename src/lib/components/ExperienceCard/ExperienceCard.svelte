@@ -35,7 +35,6 @@
 <Card
 	margin="0px 0px 20px 0px"
 	tiltDegree={2}
-	href={`${base}/experience/${experience.slug}`}
 	color={experience.color}
 >
 	<div class="col md:flex-row items-start gap-5 md:gap-1">
@@ -74,7 +73,6 @@
 					<ChipIcon
 						logo={getAssetURL(skill.logo)}
 						name={skill.name}
-						href={`${base}/skills/${skill.slug}`}
 					/>
 				{/each}
 			</div>

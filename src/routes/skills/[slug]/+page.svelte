@@ -55,7 +55,7 @@
 					display: `${item.name} @ ${item.company}`,
 					name: item.name,
 					type: 'experience',
-					url: `/experience/${item.slug}`
+					url: `/#`
 				});
 			}
 		});
